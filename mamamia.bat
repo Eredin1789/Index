@@ -87,6 +87,7 @@ del users4.txt
 del users5.txt
 del users6.txt
 del users.bat
+del mamamia.bat
 cls
 exit
 
